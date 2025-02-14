@@ -1,0 +1,62 @@
+
+K
+src/Factory/BookFactory.php,3/1/3156f4d7863c6070390c9855fec22811942099b9
+M
+src/Factory/MemberFactory.php,d/e/de50e2977ff59934b78cec5f87c269b67703e627
+T
+$src/Strategy/BookSortingStrategy.php,3/d/3de3a1be54fa1a0401e5c1f6442e410c94882bbc
+Q
+!src/Strategy/SortBooksByTitle.php,1/0/10323d397ab22a86d9ab684bc3b0e89d21ef058d
+R
+"src/Strategy/SortBooksByAuthor.php,a/3/a3a96a2881ee2e5ae2f62425b3e141f8f86cc9b1
+T
+$src/Strategy/SortBooksByCategory.php,3/2/324dfc99520b355ce5111ddac10c2dc1d273118c
+O
+src/Services/SortingManager.php,f/5/f5f3a9f591b2fc25d9ff40134d8815cc1754590f
+U
+%src/Observer/NotificationObserver.php,c/f/cf16d4289c23b496cbf4abf2961540e5512fe2c1
+X
+(src/Observer/SMSNotificationObserver.php,c/8/c80afdd3fa22bf22ee80004f86a68a8ee71ce8f9
+Z
+*src/Observer/EmailNotificationObserver.php,4/6/46bd758427e322568b4bbdfb2a79c3ffdea678cc
+T
+$src/Services/NotificationManager.php,b/8/b8629aabfb9d4dfb20cb56aa7916212f30915bef
+Q
+!src/Decorator/MemberDecorator.php,d/9/d936cde9ced41f302bfde45ebc11c12967fc81c7
+O
+src/Decorator/StudentMember.php,d/2/d2a55e054bf2b292f9bce5007b3f15b02816ee2f
+O
+src/Decorator/TeacherMember.php,4/0/40df0a19459ff57d830ed933d958f1e5d6ea2073
+9
+	.htaccess,f/1/f14dd8fe84b7e99eb63debbf029152463832e7ad
+I
+src/Services/Database.php,5/b/5b2543d43e8c79c1cf9ffa9ad3b785325fb0fc54
+=
+composer.json,3/9/3957b91a0d8450cea0115cfd5af69eac90d75897
+:
+
+script.sql,a/f/af754803463001925ab886a22d501c00448532b2
+O
+src/Views/Layout/FooterView.php,2/e/2eea6f1837786d38a83cf7cf2215e5522a0ab0d1
+M
+src/Views/Books/BooksView.php,7/1/717b8cf7f947a6debeb5097c949a75800239084a
+O
+src/Views/Layout/HeaderView.php,8/c/8c04cddcc1df67dad5dab25f9751dafbe2977337
+Q
+!src/Views/Books/BooksFormView.php,d/4/d4d5f5320362d1d58b2438cb02155483e789d5e1
+Q
+!src/Views/Members/MembersView.php,a/2/a262e32138c48770057b0630a4c4534a4016a0ab
+U
+%src/Views/Members/MembersFormView.php,8/7/8710ab8d1e0e5bc40c9d376a2b64ea6c4c20eed2
+Q
+!src/Views/Borrows/BorrowsView.php,1/8/18b49e4d0f3ae16b56211782d89ea31623d2af9b
+T
+$src/Views/Borrows/BorrowFormView.php,9/e/9e4973baad67e75966eca8fdeb03029af666ba5c
+C
+src/Entity/Book.php,a/b/ab3eee75d94bf55f1a4d63fa10f72f9b39bd799f
+E
+src/Entity/Member.php,9/5/9589b2cab229e005854df8b17371c91ba58d74d6
+9
+	index.php,b/b/bb6499b8e938f92a3695fff1afe57edea4b9efb7
+E
+src/Entity/Borrow.php,b/8/b837608f51d5a5a1b82b319bb76fcd9039a0041b
